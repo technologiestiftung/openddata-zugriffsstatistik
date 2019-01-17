@@ -14,7 +14,7 @@
     "csv-parse": "^2.5.0",
     "csv-string-optimization": "^1.0.1",
     "fs": "0.0.1-security",
-    "mathjs": "^5.0.3",
+    "mathjs": "^5.4.1",
     "moment": "^2.22.2",
     "pg": "^7.4.3",
     "request": "^2.87.0",
