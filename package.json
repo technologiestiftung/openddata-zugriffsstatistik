@@ -11,7 +11,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "child_process": "^1.0.2",
-    "csv-parse": "^2.5.0",
+    "csv-parse": "^4.3.0",
     "csv-string-optimization": "^1.0.1",
     "fs": "0.0.1-security",
     "mathjs": "^5.0.3",
